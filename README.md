@@ -19,6 +19,9 @@
 ### load_generator.py
 This file loads generator weights and generates the output using this loaded generator and output is printed on terminal.
 
+    To run: python3 load_generator.py generator.h5
+generator.h5 is obtained by saving generator model weights.
+
 ### Architecture
 Quasar RAT Server running on Windows 7 VM
 Quasar RAT Client running on Windows 10 VM installed on Ubuntu
