@@ -15,6 +15,7 @@
 
 ### Link to Quasar RAT
     https://github.com/quasar/Quasar
+Version used 1.4.0
 
 ### load_generator.py
 This file loads generator weights and generates the output using this loaded generator and output is printed on terminal.
