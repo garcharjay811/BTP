@@ -30,3 +30,9 @@ Stratosphere IPS installed on Ubuntu, the same machine in which Quasar RAT is in
 
 GAN generator - Generates values and stores in a file for each run to test how good generator values are when run through IPS
                 Client reads the values from the file and acts accordingly. To edit source code of Client, download the src package from github.
+
+### Paper Followed
+Bringing GAN to a Knife Fight - PDF file
+
+### Paper referred for Image Processing Mitigation technique
+Malware Classification using Image Representation - PDF file named 15111005.pdf
